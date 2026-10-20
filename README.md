@@ -2,4 +2,4 @@
 
 1年生、前期　WinApiを用いて作成したゲーム
 
-[最新版のZIPをダウンロードする](https://github.com/YutoMurakami/1.NovelGame/blob/main/application.zip?raw=true))
+[最新版のZIPをダウンロードする](https://github.com/YutoMurakami/1.NovelGame/blob/main/application.zip?raw=true)
